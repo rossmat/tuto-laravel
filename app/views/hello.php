@@ -39,6 +39,9 @@
 		<h1>You have arrived.</h1>
 		<p>Voici un paragraphe pour tester git</p>
 		<p>Un paragraphe en conflit</p>
+		<p>Voici un paragraphe pour tester git</p>
+		<p>Voici un paragraphe pour tester git</p>
+		<p>Voici un paragraphe pour tester git</p>
 	</div>
 </body>
 </html>
