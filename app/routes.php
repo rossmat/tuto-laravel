@@ -21,7 +21,7 @@ Route::get('/users', function()
 	return 'Hello World!';
 });
 
-Route::get('/hello', function()
-{
-	return 'Deuxième route';
-});
+//Route::get('/hello', function()
+//{
+//	return 'Deuxième route';
+//});
