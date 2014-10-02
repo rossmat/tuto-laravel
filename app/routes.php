@@ -16,7 +16,12 @@ Route::get('/', function()
 	return View::make('hello');
 });
 
-Route::get('/users/', function()
+Route::get('/users', function()
 {
 	return 'Hello World!';
+});
+
+Route::get('/hello', function()
+{
+	return 'Deuxième route';
 });
