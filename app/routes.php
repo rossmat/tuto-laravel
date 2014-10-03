@@ -21,7 +21,7 @@ Route::get('users', function()
 	return 'Not Hello World!';
 });
 
-Route::get('/hello', function()
+Route::get('hello2', function()
 {
 	return 'Deuxième route';
 });
